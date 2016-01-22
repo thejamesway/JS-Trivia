@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget 
+
+	xmlns="http://www.w3.org/ns/widgets" 
+	xmlns:gap="http://phonegap.com/ns/1.0" 
+	id="com.phonegap.projectname" 
+	version="1.0">
+	<name>Trivia Game</name>
+	
+	<description>
+		My Trivia Game.
+	</description>
+	
+	<author href="https://jenksps.org" email="jacob99james@gmail.com">
+		Jacob James
+	</author>
+	
+	<preference name="orientation" value="default" />
+	<preference name="target-device" value="universal" />
+	
+	<icon src="imgs/icon-ldpi.png" gap:paltform="android" gap:qualifier="lpdi"/>
+	<icon src="imgs/icon-mdpi.png" gap:paltform="android" gap:qualifier="mpdi"/>
+	<icon src="imgs/icon-ldpi.png" gap:paltform="ios" width="57" height="57" />
+	
+	
+
+</widget>
+
+
